@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.task.app.git_commit_list">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="git_commit_list"
         android:icon="@mipmap/ic_launcher">
